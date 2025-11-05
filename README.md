@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Mahdi Bashiri</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/master/assets/minecraft/textures/item/diamond_sword.png" width="120" />
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  🧱 Minecraft Server Developer <br>
-  🧠 Always learning & creating new things <br>
-  💚 "Coding is like Minecraft — you build your world, one block at a time."
+  <strong>🧱 Minecraft Server Developer</strong><br>
+  <strong>🧠 Always learning & creating new things</strong><br>
+  <strong>💚 "Coding is like Minecraft — you build your world, one block at a time."</strong>
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 ### 🎮 My Minecraft World:
 <p align="center">
-  <img src="https://media.tenor.com/On7kvXhzml4AAAAj/minecraft-steve.gif" width="220"/>
+  <img src="https://media.giphy.com/media/6zE9g8hQuvFeE/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -31,4 +31,8 @@
   <a href="https://github.com/MahdiBashiri">
     <img src="https://img.shields.io/badge/GitHub-Mahdi%20Bashiri-black?style=for-the-badge&logo=github" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+Minecraft+Dev+world!;Enjoy+your+stay+🧱" alt="Typing SVG" />
 </p>
