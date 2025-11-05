@@ -1,17 +1,18 @@
-<h1 align="center">👋 Hi, I'm Mahdi Bashir</h1>
+<h1 align="center">👋 Hi, I'm Mahdi Bashiri</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/80bYzjK.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/InventivetalentDev/minecraft-assets/refs/heads/master/assets/minecraft/textures/item/diamond_sword.png" width="120" />
 </p>
 
 <p align="center">
-  🧱 I'm a Minecraft Server Developer <br>
-  🌍 Passionate about coding, creativity, and building amazing stuff <br>
+  🧱 Minecraft Server Developer <br>
+  🧠 Always learning & creating new things <br>
+  💚 "Coding is like Minecraft — you build your world, one block at a time."
 </p>
 
 ---
 
-### 🧠 Languages & Tools I use:
+### 💻 Languages & Tools I Use:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,java,python,cs,cpp&theme=dark" />
@@ -19,19 +20,15 @@
 
 ---
 
-### 🎮 My World:
+### 🎮 My Minecraft World:
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/16/c0/3a16c0d0b7d7475025d29f9f5c1e790d.gif" width="400"/>
+  <img src="https://media.tenor.com/On7kvXhzml4AAAAj/minecraft-steve.gif" width="220"/>
 </p>
 
 ---
 
 <p align="center">
-  💬 “Coding is like Minecraft — you build your world, one block at a time.”
-</p>
-
-<p align="center">
-  <a href="https://github.com/mahdiBashir">
-    <img src="https://img.shields.io/badge/GitHub-Mahdi%20Bashir-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MahdiBashiri">
+    <img src="https://img.shields.io/badge/GitHub-Mahdi%20Bashiri-black?style=for-the-badge&logo=github" />
   </a>
 </p>
