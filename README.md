@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Mahdi Bashiri</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="200"/>
-</p>
+
 
 <p align="center">
   <strong>🧱 Minecraft Server Developer</strong><br>
@@ -20,11 +18,7 @@
 
 ---
 
-### 🎮 My Minecraft World:
-<p align="center">
-  <img src="https://media.giphy.com/media/6zE9g8hQuvFeE/giphy.gif" width="400"/>
-</p>
-
+### good day🙃
 ---
 
 <p align="center">
